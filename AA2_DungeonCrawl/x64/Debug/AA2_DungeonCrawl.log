@@ -1,0 +1,8 @@
+﻿  AA2_DungeonCrawl.cpp
+C:\Users\Roh\source\repos\AA2_DungeonCrawl\AA2_DungeonCrawl\ConsoleControl.h(57,2): warning C4091: 'static ': se ha omitido a la izquierda de 'ConsoleControl' cuando no hay ninguna variable declarada
+  ConsoleControl.cpp
+C:\Users\Roh\source\repos\AA2_DungeonCrawl\AA2_DungeonCrawl\ConsoleControl.h(57,2): warning C4091: 'static ': se ha omitido a la izquierda de 'ConsoleControl' cuando no hay ninguna variable declarada
+  InputManager.cpp
+C:\Users\Roh\source\repos\AA2_DungeonCrawl\AA2_DungeonCrawl\ConsoleControl.h(57,2): warning C4091: 'static ': se ha omitido a la izquierda de 'ConsoleControl' cuando no hay ninguna variable declarada
+  Generando código...
+  AA2_DungeonCrawl.vcxproj -> C:\Users\Roh\source\repos\AA2_DungeonCrawl\x64\Debug\AA2_DungeonCrawl.exe
